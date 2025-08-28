@@ -22,8 +22,6 @@
 
 📈 Exportação para Excel pronta para análise
 
-Projeto: Tratamento de Dados Bagunçados
-
 ### 📈 [Dashboard de Vendas - Olist](https://github.com/gislaine-bach/olist-vendas)
 Análise completa das vendas de um e-commerce com gráficos interativos usando Python + Streamlit.
 
