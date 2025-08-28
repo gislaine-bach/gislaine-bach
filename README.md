@@ -10,6 +10,20 @@
 
 ## 🚀 Projetos em Destaque
 
+### 📈[Tratamento de Dados Bagunçados](https://github.com/gislaine-bach/Tratamento-de-dados)
+
+📊 Limpeza e Tratamento de Dados de Vendas | Python & Pandas 🚀
+
+🧹 Limpeza de colunas, duplicatas e valores vazios
+
+📅 Conversão de datas e padronização de textos
+
+💰 Cálculo automático de faturamento
+
+📈 Exportação para Excel pronta para análise
+
+Projeto: Tratamento de Dados Bagunçados
+
 ### 📈 [Dashboard de Vendas - Olist](https://github.com/gislaine-bach/olist-vendas)
 Análise completa das vendas de um e-commerce com gráficos interativos usando Python + Streamlit.
 
